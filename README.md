@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+- 🌱 I’m currently learning: Full-Stack Web Dev, Full Stack Python, Full Stack MERN at Coding Dojo
+- 😄 Pronouns: he/his/him
+
+
 <!--
 **ChristYela/ChristYela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
