@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi dear visitor 👋
+
+  I'm Cristian Yela from Medellín, Colombia. 
+  I'm a IT Engineer who is studying web delevopment at Coding Dojo Latam
+  
+ 
 
 
 - 🌱 I’m currently learning: Full-Stack Web Dev, Full Stack Python, Full Stack MERN at Coding Dojo
