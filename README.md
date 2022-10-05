@@ -1,14 +1,14 @@
-### Hi dear visitor 👋
+### Welcome dear visitor 👋
 
-  I'm Cristian Yela from Medellín, Colombia. 
-  I'm a IT Engineer who is studying web delevopment at Coding Dojo Latam
+    - I'm Cristian Yela from Medellín, Colombia. 
+    - I'm a IT Engineer who is studying web delevopment at Coding Dojo Latam
   
- 
-
-
-- 🌱 I’m currently learning: Full-Stack Web Dev, Full Stack Python, Full Stack MERN at Coding Dojo
-- 😄 Pronouns: he/his/him
-
+    - 🌱 I’m currently learning: Full-Stack Web Dev, Full Stack Python, Full Stack MERN at Coding Dojo
+    - 👯 I’m looking to collaborate on different kinds of projects, it's a way to improve my skills as a developer
+    - 🤔 I’m looking for help with assistance and consulting, in orden to increase my proficiency as IT Engineer
+    - 📫 How to reach me: https://www.linkedin.com/in/christianyela/
+    - 😄 Pronouns: he/his/him
+    - ⚡ Fun fact: IT Engineer, JR web dev trainee, languageholic in training
 
 <!--
 **ChristYela/ChristYela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
