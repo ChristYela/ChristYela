@@ -4,6 +4,7 @@
     - I'm a IT Engineer who is studying web delevopment at Coding Dojo Latam
   
     - 🌱 I’m currently learning: Full-Stack Web Dev, Full Stack Python, Full Stack MERN at Coding Dojo
+    - 🌱 Technologies: HTML5, CSS3, JavaScript, Bootstrap, Python, Flask, Jinja, MySQL, MongoDB, Express, React, Node.js
     - 👯 I’m looking to collaborate on different kinds of projects, it's a way to improve my skills as a developer
     - 🤔 I’m looking for help with assistance and consulting, in orden to increase my proficiency as IT Engineer
     - 📫 How to reach me: https://www.linkedin.com/in/christianyela/
