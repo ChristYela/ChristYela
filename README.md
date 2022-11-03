@@ -13,7 +13,7 @@
     - 🤔 I’m looking for help with assistance and consulting, in orden to increase my proficiency as IT Engineer
     - 📫 How to reach me: https://www.linkedin.com/in/christianyela/
     - 😄 Pronouns: he/his/him
-    - ⚡ Fun fact: IT Engineer, JR web dev trainee, languageholic in training, cybersecurity enthusiast.
+    - ⚡ Fun fact: IT Engineer, JR web dev trainee, languageholic in training, cybersecurity enthusiastic.
 
 <!--
 **ChristYela/ChristYela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
