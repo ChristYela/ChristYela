@@ -3,9 +3,7 @@
     - I'm Cristian Yela from Medellín, Colombia. 
     - I'm a IT Engineer who is studying Full Stack web development at Coding Dojo Latam, 
       Also I'm studiyng by myself some about cybersecurity. 
-      <script src="https://tryhackme.com/badge/1481714"></script>
-
-      
+            
   
     - 🌱 I’m currently learning: Full-Stack Web Dev, Full Stack Python, Full Stack MERN at Coding Dojo
     - 🌱 Languages: JavaScript (ES6), CSS3, HTML5.
