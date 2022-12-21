@@ -12,9 +12,9 @@
     - 🌱 Databases: SQL (MySQL), NoSQL (MongoDB), Mongoose.
     - 👯 I’m looking to collaborate on different kinds of projects, it's a way to improve my skills as a developer
     - 🤔 I’m looking for help with assistance and consulting, in orden to increase my proficiency as IT Engineer
-    - 📫 How to reach me: https://www.linkedin.com/in/christianyela/
     - 😄 Pronouns: he/his/him
     - ⚡ Fun fact: IT Engineer, JR web dev trainee, languageholic in training, cybersecurity enthusiastic.
+    - 💬 About me: I'm neurodivergent, asd and adhd
 
 <!--
 **ChristYela/ChristYela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
