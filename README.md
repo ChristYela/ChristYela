@@ -6,7 +6,7 @@
             
   
     - 🌱 I’m currently learning: Full-Stack Web Dev, Full Stack Python, Full Stack MERN at Coding Dojo
-    - 🌱 Languages: JavaScript (ES6), CSS3, HTML5.
+    - 🌱 Languages: JavaScript (ES6), Python, CSS3, HTML5.
     - 🌱 Front end: React, jQuery, AJAX, JSON, RESTful APIs, Bootstrap. 
     - 🌱 Back end: Node.js, Express, Django, Flask, AWS, Socket.io, OOP.
     - 🌱 Databases: SQL (MySQL), NoSQL (MongoDB), Mongoose.
