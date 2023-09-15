@@ -14,7 +14,7 @@
     - 🤔 I’m looking for help with assistance and consulting, in orden to increase my proficiency as IT Engineer
     - 😄 Pronouns: he/his/him
     - ⚡ Fun fact: IT Engineer, JR web dev trainee, languageholic in training, cybersecurity enthusiastic.
-    - 💬 About me: I'm neurodivergent, asd and adhd
+    
 
 <!--
 **ChristYela/ChristYela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
