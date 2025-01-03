@@ -13,7 +13,7 @@
             
   
     - 🌱 I’ve learned: Full-Stack Web Dev, Full Stack Python, Full Stack MERN at Coding Dojo
-    - 🌱 I’m currently learning: Angular, TypeScript, Java, SpringBoot
+    - 🌱 I’m currently learning: Angular, TypeScript, Java, SpringBoot 
     - 🌱 Languages: JavaScript (ES6), Python, CSS3, HTML5.
     - 🌱 Front end: React, jQuery, AJAX, JSON, RESTful APIs, Bootstrap. 
     - 🌱 Back end: Node.js, Express, Django, Flask, AWS, Socket.io, OOP.
